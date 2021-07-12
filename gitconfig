@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = susheelshivaprasad@gmail.com
+	name = Susheel Shivaprasad
